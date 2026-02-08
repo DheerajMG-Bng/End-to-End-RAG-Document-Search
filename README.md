@@ -10,4 +10,4 @@ The work focuses on retrieval quality, document ingestion, vector indexing, and 
 ---
 
 #### Currently 
-Developing an end-to-end Retrieval-Augmented Generation (RAG) system, evolving from traditional RAG pipelines to an agentic document search framework using LangChain, LangGraph, and vector databases.
+Working on to develop an end-to-end Retrieval-Augmented Generation (RAG) system, evolving from traditional RAG pipelines to an agentic document search framework using LangChain, LangGraph, and vector databases.
